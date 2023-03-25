@@ -1,0 +1,31 @@
+.ActorImg {
+  width: 300px;
+  display: block;
+}
+
+.Description {
+  display: flex;
+  flex-direction: column;
+}
+
+.Details {
+  display: flex;
+  gap: 20px;
+  border-bottom: 1px solid black;
+}
+
+.Information {
+  border-bottom: 1px solid black;
+}
+
+.DetailsList {
+    list-style-type: none;
+    font-size: larger;
+    cursor: pointer;
+    width: 20px;
+}
+
+.InfoTitle {
+    align-items: center;
+    text-align: center;
+}

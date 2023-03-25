@@ -1,0 +1,6 @@
+.MovieList {
+  list-style-type: none;
+  text-decoration: none;
+  margin-bottom: 10px;
+  width: 200px;
+}
