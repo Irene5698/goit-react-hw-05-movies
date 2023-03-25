@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/76.8c9ec2c1.chunk.css","mappings":"AAAA,sBACE,WACF,CAEA,uBACE,oBACF","sources":["components/Cast/Cast.module.css"],"sourcesContent":[".ActorImg {\n  width: 200px;\n}\n\n.ActorList {\n  list-style-type: none;\n}\n"],"names":[],"sourceRoot":""}
